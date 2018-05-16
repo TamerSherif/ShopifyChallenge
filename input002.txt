@@ -1,0 +1,1 @@
+{ "id": 2, "discount_type": "cart", "discount_value": 50.0, "cart_value": 250.0 }
